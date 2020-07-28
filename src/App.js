@@ -3,9 +3,9 @@ import Menu from './components/Menu';
 
 function App() {
   return (
-    <div>
+    <nav>
       <Menu />
-    </div>
+    </nav>
   );
 }
 
