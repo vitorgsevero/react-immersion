@@ -5,8 +5,9 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Vítor Severo Profile",
+        "url": "https://github.com/vitorgsevero",
+        "target": "_blank"
       },
       "videos": [
         {
@@ -40,24 +41,33 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Vítor Severo Profile",
+        "url": "https://github.com/vitorgsevero",
+        "target": "_blank"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Java Microsservices",
+          "url": "https://www.youtube.com/watch?v=7TITPEwY3uU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0&index=5"
+        },
+        {
+          "titulo": "Docker image in Spring Boot",
+          "url": "https://www.youtube.com/watch?v=UwmrvkC8cM4&t=2s"
+        },
+        {
+          "titulo": "Spring Boot Essentials with DevDojo",
+          "url": "https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
@@ -66,7 +76,38 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas para o Dev",
+      "cor": "#414141",
+      "link_extra": {
+        "text": "Vítor Severo Profile",
+        "url": "https://github.com/vitorgsevero",
+        "target": "_blank"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "3 jogos de celular que faturam mais de 10 mil reais por mês",
+          "url": "https://www.youtube.com/watch?v=LYNmZMBe4xA&t=52s"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Inglês para programadores",
+          "url": "https://www.youtube.com/watch?v=xcxz_PmpZ8w"
+        },
+        {
+          "titulo": "Monetizando aplicativos",
+          "url": "https://www.youtube.com/watch?v=16-VoNfVvs4"
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -77,13 +118,18 @@
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Vítor Severo Profile",
+        "url": "https://github.com/vitorgsevero",
+        "target": "_blank"
       },
       "videos": [
         {
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "OpenAI vai matar os programadores?",
+          "url": "https://www.youtube.com/watch?v=G4hcT6fUoBw"
         },
         {
           "titulo": "O que é Data Science?",
@@ -96,6 +142,37 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Vítor Severo Profile",
+        "url": "https://github.com/vitorgsevero",
+        "target": "_blank"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Batman Arkham Asylum - Full Game",
+          "url": "https://www.youtube.com/watch?v=yj4Qw6PMlvk"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "The Witcher III",
+          "url": "https://www.youtube.com/watch?v=TwIB-OdXMCY"
+        },
+        {
+          "titulo": "Spiderman PS4",
+          "url": "https://www.youtube.com/watch?v=AL-Bn9h-K7k"
         }
       ]
     },
@@ -118,36 +195,6 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },
