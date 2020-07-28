@@ -10,7 +10,7 @@ function Menu() {
         <img className='Logo' src={Logo} alt='VitorFlix logo'></img>
       </a>
 
-      <Button href='/' className='ButtonLink'>
+      <Button as='a' href='/' className='ButtonLink'>
         Novo Vídeo
       </Button>
     </nav>
