@@ -13,7 +13,9 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={'O que é o front-end? Trabalhando na área'}
+        videoDescription={
+          'Conheça um pouco mais sobre a nova ferramenta de CI/CD feita pelo GitHub'
+        }
       />
 
       <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
