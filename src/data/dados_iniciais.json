@@ -15,32 +15,28 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Iniciando com React",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q&t=6s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "React em 9 minutos",
+          "url": "https://www.youtube.com/watch?v=SQsR0KA-oew"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "React Basics",
+          "url": "https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Menu Dropdown React",
+          "url": "https://www.youtube.com/watch?v=IF6k0uZuypA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Upload de arquivos com React",
+          "url": "https://www.youtube.com/watch?v=G5UZmvkLWSQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Spotify UI",
+          "url": "https://www.youtube.com/watch?v=rkZEWuMRY28"
         }
       ]
     },
@@ -62,16 +58,16 @@
           "url": "https://www.youtube.com/watch?v=7TITPEwY3uU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0&index=5"
         },
         {
-          "titulo": "Docker image in Spring Boot",
-          "url": "https://www.youtube.com/watch?v=UwmrvkC8cM4&t=2s"
+          "titulo": "Java em 2020",
+          "url": "https://www.youtube.com/watch?v=fMdVW91QOus&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=265&t=0s"
         },
         {
-          "titulo": "Spring Boot Essentials with DevDojo",
-          "url": "https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1"
+          "titulo": "Spring Boot Microsservices with DevDojo",
+          "url": "https://www.youtube.com/watch?v=pKkZ3KFLPQ8&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=29&t=0s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "JAVA - Código fonte",
+          "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
         },
         {
           "titulo": "API: Dicionário do Programador",
@@ -97,20 +93,20 @@
           "url": "https://www.youtube.com/watch?v=LYNmZMBe4xA&t=52s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "3 dicas de empreendedorismo para Devs",
+          "url": "https://www.youtube.com/watch?v=jQ5DFv_W3QM&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=82&t=0s"
         },
         {
           "titulo": "Inglês para programadores",
           "url": "https://www.youtube.com/watch?v=xcxz_PmpZ8w"
         },
         {
-          "titulo": "Monetizando aplicativos",
-          "url": "https://www.youtube.com/watch?v=16-VoNfVvs4"
+          "titulo": "Programador referência",
+          "url": "https://www.youtube.com/watch?v=VxmEauPKjQo&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=138&t=0s"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Renda passiva com apps",
+          "url": "https://www.youtube.com/watch?v=OM5p7AZVJy0&list=LLtSr4x0HEcrZ2eYoZfCVKAA&index=79&t=0s"
         }
       ]
     },
@@ -140,8 +136,12 @@
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "AI x Devs",
+          "url": "https://www.youtube.com/watch?v=-uUTrEIeOHo"
+        },
+        {
+          "titulo": "AI Deschamps",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
         }
       ]
     },
@@ -173,6 +173,10 @@
         {
           "titulo": "Spiderman PS4",
           "url": "https://www.youtube.com/watch?v=AL-Bn9h-K7k"
+        },
+        {
+          "titulo": "FIFA 19 - CR7",
+          "url": "https://www.youtube.com/watch?v=2kNTSXX1psU"
         }
       ]
     },
