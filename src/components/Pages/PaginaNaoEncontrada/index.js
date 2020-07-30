@@ -1,15 +1,12 @@
 import React from 'react';
-import Menu from '../../Menu';
-import Footer from '../../Footer';
+import PageDefault from '../../PageDefault';
 
 function PageNotFound() {
   return (
     <div style={{ background: 'white' }}>
-      <Menu />
-
-      <div>Page Not Found - 404</div>
-
-      <Footer />
+      <PageDefault>
+        <h1>Page Not Found - 404</h1>
+      </PageDefault>
     </div>
   );
 }
