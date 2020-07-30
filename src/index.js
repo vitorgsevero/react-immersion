@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './components/Pages/Home';
+import PageNotFound from './components/Pages/PaginaNaoEncontrada/index';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroVideo from './components/Pages/Cadastro/Video/index';
@@ -11,7 +12,7 @@ ReactDOM.render(
     <Switch>
       <Route path='/' component={Home} exact />
       <Route path='/cadastro/video' component={CadastroVideo} />
-      <Route component={Home} />
+      <Route component={PageNotFound} />
     </Switch>
   </BrowserRouter>,
 
