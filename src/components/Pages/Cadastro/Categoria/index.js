@@ -1,77 +1,89 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../PageDefault';
+import FormField from '../../../FormField';
 
 function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
 
-  const valoresIniciais = {
+  const initialValues = {
     name: '',
     description: '',
     color: '',
   };
 
-  const [values, setValues] = useState(valoresIniciais);
-
-  console.log('VALUES -> ', values);
+  const [values, setValues] = useState(initialValues);
 
   function setValue(key, value) {
     setValues({
       ...values,
       [key]: value, //key -> attribute | value -> argument
     });
-    console.log('Key: ', key, 'Value: ', value);
   }
 
-  function handlerState(eventInfo) {
+  function handleChange(eventInfo) {
     const { getAttribute, value } = eventInfo.target; //eventInfo.target.getAttribute, eventInfo.target.target
-    setValue(getAttribute('name'), value);
+    console.log('Attribute: ', getAttribute, ' Value: ', value);
+    setValue(eventInfo.target.getAttribute('name'), eventInfo.targetvalue);
   }
 
   function handleSubmit(eventInfo) {
     eventInfo.preventDefault();
     setCategorias([...categorias, values]);
 
-    setValues(valoresIniciais);
+    setValues(initialValues);
   }
 
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria: {values.nome} </h1>
+      <h1>Cadastro de Categoria: {values.name} </h1>
       <form onSubmit={handleSubmit}>
-        <div>
+        <FormField
+          label='Category Name'
+          type='text'
+          name='name'
+          value={values.name}
+          onChange={handleChange}
+        />
+
+        <FormField
+          label='Description'
+          type='text'
+          name='description'
+          value={values.description}
+          onChange={handleChange}
+        />
+
+        {/* <div>
           <label>
-            Nome da Categoria:
-            <input
-              type='text'
-              name='name'
-              value={values.name}
-              onChange={handlerState}
-            />
-          </label>
-        </div>
-        <div>
-          <label>
-            Descrição:
+            Description:
             <textarea
+              label='Description'
               type='text'
               name='description'
               value={values.description}
-              onChange={handlerState}
+              onChange={handleChange}
             />
           </label>
-        </div>
-        <div>
+        </div> */}
+        <FormField
+          label='Color'
+          type='color'
+          name='color'
+          value={values.color}
+          onChange={handleChange}
+        />
+        {/* <div>
           <label>
             Cor:
             <input
               type='color'
               name='color'
               value={values.color}
-              onChange={handlerState}
+              onChange={handleChange}
             />
           </label>
-        </div>
+        </div> */}
         <button>Cadastrar</button>
       </form>
       <ul>
