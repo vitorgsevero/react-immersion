@@ -7,6 +7,7 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [ReactJS] - Javascript library based in components
 * [Redux] - It saves the state of the appplication, reduce server calls
 * [ES6+Syntax] - New Javascript syntax
+* [JSON Server] - Full fake REST API
 * [ESLint] - Pluggable JS Linter to find and fix problems in your code
 * [React-Slick] - Carousel created with react-slick
 * [Redux] - To manage the state of the application
