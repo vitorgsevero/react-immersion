@@ -66,8 +66,8 @@ function CadastroCategoria() {
         <Button>Add</Button>
       </form>
       <ul>
-        {categorias.map((categoria, indice) => {
-          return <li key={`${categoria}${indice}`}>{categoria.name}</li>;
+        {categorias.map((categoria) => {
+          return <li key={`${categoria.name}`}>{categoria.name}</li>;
         })}
       </ul>
       <Link to='/'>Go to homepage</Link>
