@@ -13,7 +13,7 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [React-Slick] - Carousel created with react-slick
 * [Redux] - To manage the state of the application
 * [Styled Components] - Using CSS inside jsx/js files
-* [Vercel] -  Front-enb deployment to cloud
+* [Vercel] -  Front-end deployment to cloud
 * [Heroku Cloud] - Back-end deployment to cloud
 
 
