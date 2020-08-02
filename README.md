@@ -8,12 +8,13 @@ Here's the Tech Stack and some Modern Technologies used to develop the applicati
 * [Redux] - It saves the state of the appplication, reduce server calls
 * [ES6+Syntax] - New Javascript syntax
 * [JSON Server] - Full fake REST API
-* [Concunrrently] - Run multiple commands concurrentlyI
+* [Concunrrently] - Run multiple commands concurrently
 * [ESLint] - Pluggable JS Linter to find and fix problems in your code
 * [React-Slick] - Carousel created with react-slick
 * [Redux] - To manage the state of the application
-* [Styled Components] - Using CSS
-* [Vercel] -  Deployment to cloud! 
+* [Styled Components] - Using CSS inside jsx/js files
+* [Vercel] -  Front-enb deployment to cloud
+* [Heroku Cloud] - Back-end deployment to cloud
 
 
 ## Available Scripts
